@@ -1,0 +1,108 @@
+[
+    {
+        "key": "12",
+        "category": "development",
+        "name": "react",
+        "enrolled": 100,
+        "price": 5000
+    },
+
+    {
+        "key": "23",
+        "category": "development",
+        "name": "Next JS",
+        "enrolled": 80,
+        "price": 4500
+    },
+    {
+        "key": "34",
+        "category": "development",
+        "name": "Node JS",
+        "enrolled": 90,
+        "price": 5500
+    },
+    {
+        "key": "45",
+        "category": "development",
+        "name": "react JS",
+        "enrolled": 110,
+        "price": 6000
+    },
+    {
+        "key": "56",
+        "category": "development",
+        "name": "Angular",
+        "enrolled": 70,
+        "price": 4000
+    },
+    {
+        "key": "67",
+        "category": "development",
+        "name": "VUE JS",
+        "enrolled": 105,
+        "price": 6000
+    },
+    {
+        "key": "78",
+        "category": "development",
+        "name": "Python",
+        "enrolled": 100,
+        "price": 5000
+    },
+    {
+        "key": "89 ",
+        "category": "development",
+        "name": "UI Design",
+        "enrolled": 90,
+        "price": 4500
+    },
+    {
+        "key": "90",
+        "category": "development",
+        "name": "Web Development",
+        "enrolled": 100,
+        "price": 6500
+    },
+    {
+        "key": "91",
+        "category": "development",
+        "name": "App Development",
+        "enrolled": 120,
+        "price": 5500
+    },
+    {
+        "key": "92",
+        "category": "development",
+        "name": "App Design",
+        "enrolled": 100,
+        "price": 4000
+    },
+    {
+        "key": "95",
+        "category": "development",
+        "name": "Figma Design",
+        "enrolled": 80,
+        "price": 2500
+    },
+    {
+        "key": "97",
+        "category": "development",
+        "name": "Wordpress Development",
+        "enrolled": 110,
+        "price": 6000
+    },
+    {
+        "key": "98",
+        "category": "development",
+        "name": "CSS Pro",
+        "enrolled": 90,
+        "price": 3000
+    },
+    {
+        "key": "99",
+        "category": "development",
+        "name": "Html Pro",
+        "enrolled": 90,
+        "price": 2500
+    }
+]
