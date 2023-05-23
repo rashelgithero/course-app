@@ -2,9 +2,10 @@
     {
         "key": "12",
         "category": "development",
-        "name": "react",
+        "name": "react XML",
         "enrolled": 100,
-        "price": 5000
+        "price": 5000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"  
     },
 
     {
@@ -12,97 +13,123 @@
         "category": "development",
         "name": "Next JS",
         "enrolled": 80,
-        "price": 4500
+        "price": 4500,
+        "img": "https://itguru.vn/blog/wp-content/uploads/2020/06/NextJs-logo-1024x576.jpg"
     },
     {
         "key": "34",
         "category": "development",
         "name": "Node JS",
         "enrolled": 90,
-        "price": 5500
+        "price": 5500 ,
+        "img": "https://iconape.com/wp-content/png_logo_vector/node-js-2.png"
+        
     },
     {
         "key": "45",
         "category": "development",
         "name": "react JS",
         "enrolled": 110,
-        "price": 6000
+        "price": 6000 ,
+        "img": "https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"
+        
     },
     {
         "key": "56",
         "category": "development",
         "name": "Angular",
         "enrolled": 70,
-        "price": 4000
+        "price": 4000,
+        "img": "https://dwglogo.com/wp-content/uploads/2017/03/AngularJS_logo_004.svg"
+        
     },
     {
         "key": "67",
         "category": "development",
         "name": "VUE JS",
         "enrolled": 105,
-        "price": 6000
+        "price": 6000,
+        "img": "https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg"
+        
     },
     {
         "key": "78",
         "category": "development",
         "name": "Python",
         "enrolled": 100,
-        "price": 5000
+        "price": 5000,
+        "img": "https://cdn.worldvectorlogo.com/logos/python-4.svg"
+        
     },
     {
         "key": "89 ",
         "category": "development",
         "name": "UI Design",
         "enrolled": 90,
-        "price": 4500
+        "price": 4500,
+        "img": "https://www.svgrepo.com/show/257071/browser-ui.svg"
     },
     {
         "key": "90",
         "category": "development",
         "name": "Web Development",
         "enrolled": 100,
-        "price": 6500
+        "price": 6500,
+        "img": "https://www.svgrepo.com/show/295412/development-web-development.svg"
+        
     },
     {
         "key": "91",
         "category": "development",
         "name": "App Development",
         "enrolled": 120,
-        "price": 5500
+        "price": 5500,
+        "img": "https://www.svgrepo.com/show/79718/mobile-app-developing.svg"
+        
     },
     {
         "key": "92",
         "category": "development",
         "name": "App Design",
         "enrolled": 100,
-        "price": 4000
+        "price": 4000,
+        "img": "https://www.svgrepo.com/show/42292/mobile-app.svg"
+        
     },
     {
         "key": "95",
         "category": "development",
         "name": "Figma Design",
         "enrolled": 80,
-        "price": 2500
+        "price": 2500,
+        "img": "https://www.heathbits.com/global/img/logos/tools/figma.svg"
+        
     },
     {
         "key": "97",
         "category": "development",
         "name": "Wordpress Development",
         "enrolled": 110,
-        "price": 6000
+        "price": 6000,
+        "img": "https://www.hashsoftware.com/wp-content/uploads/2021/03/Wordpress.png"
+        
     },
     {
         "key": "98",
         "category": "development",
         "name": "CSS Pro",
         "enrolled": 90,
-        "price": 3000
+        "price": 3000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png"
+        
     },
     {
         "key": "99",
         "category": "development",
         "name": "Html Pro",
         "enrolled": 90,
-        "price": 2500
+        "price": 2500,
+        "img": "https://cdn.onlinewebfonts.com/svg/img_548550.png"
+        
     }
 ]

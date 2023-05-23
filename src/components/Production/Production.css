@@ -1,0 +1,50 @@
+.production img{
+    width: 200px;
+    height: 150px;
+    margin: 10px 10px;
+}
+.production{
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid lightgray;
+    border-left: 2px solid lightgray;
+    padding: 20px 0;
+    margin-left: 20px;
+    
+}
+.textPart{
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+.buy{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 20px;
+
+    
+}
+.production Button{
+    font-size: 20px;
+}
+.textPart h5{
+    color: blue;
+}
+.buy {
+    color: green;
+}
+#price {
+    color: red;
+}
+.buy:hover{
+    color: black;
+}
+.textPart h3:hover{
+    color: green;
+}
+.textPart h5:hover{
+    color: black;
+}
