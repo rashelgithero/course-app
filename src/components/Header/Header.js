@@ -1,6 +1,6 @@
 import React from 'react';
-import Data from '../../data/data.json'
 import './Header.css';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
     
@@ -9,9 +9,9 @@ const Header = () => {
             <div className='course-heading'>
                 <nav>
                     <img src="https://tse1.mm.bing.net/th?id=OIP.MwXpQyuibMb4iJX0qoDXsQHaHa&pid=Api&P=0&h=360" alt="" />
-                    <a href="/courses">COURSES</a>
-                    <a href="/teacher">TEACHER</a>
-                    <a href="about">ABOUT US</a>
+                    <Link to="/course">COURSES</Link>
+                    <Link to="/teacher">TEACHER</Link>
+                    <Link to="about">ABOUT US</Link>
                 </nav>
             </div>
         </div>

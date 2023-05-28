@@ -1,10 +1,11 @@
 import React from 'react';
 import './Production.css';
 import { Button } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 
 const Production = (props) => {
-    const { name, img, category, enrolled, price } = props.course;
+    const { name, img, category, enrolled, price,key } = props.course;
     
     return (
         <div className='production'>
@@ -12,7 +13,7 @@ const Production = (props) => {
                 <img src={img} alt="" />
             </div>
             <div className='textPart'>
-                <h3>{name} <small>with best teachers and best instructions. </small></h3>
+                <Link className='name'to ={`/course/${key}`}><h3>{name} <small>with best teachers and best instructions. </small></h3></Link>
                 <br />
                 <br />
                 <h5><small>Category : {category}</small></h5>

@@ -14,7 +14,7 @@
         "name": "Next JS",
         "enrolled": 80,
         "price": 4500,
-        "img": "https://itguru.vn/blog/wp-content/uploads/2020/06/NextJs-logo-1024x576.jpg"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"
     },
     {
         "key": "34",
@@ -60,14 +60,6 @@
         "price": 5000,
         "img": "https://cdn.worldvectorlogo.com/logos/python-4.svg"
         
-    },
-    {
-        "key": "89 ",
-        "category": "development",
-        "name": "UI Design",
-        "enrolled": 90,
-        "price": 4500,
-        "img": "https://www.svgrepo.com/show/257071/browser-ui.svg"
     },
     {
         "key": "90",
